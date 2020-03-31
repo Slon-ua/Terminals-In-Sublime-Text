@@ -52,3 +52,5 @@ The code is well commented so it should be clear how it works. Again you can cop
   
 ## Acknowledgements
 Thanks again to randy3k for developing Terminus. More information here: https://github.com/randy3k/Terminus 
+
+Manual on Youtube  - https://www.youtube.com/watch?v=sRxpxFDGLXI
